@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppPresentacionJeanPaul</string>
+    <string name="Titulo">AppPresentacion_JeanPaul</string>
+    <string name="Nombre">Nombre: Jean Paul\nApellido: Elguera Herrera</string>
+    <string name="Direccion">Calle Isla Cies 28035</string>
+    <string name="Correo">jeanpaul@hotmail.com</string>
+    <string name="Movil">693321660</string>
+</resources>
